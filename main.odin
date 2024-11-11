@@ -15,7 +15,6 @@ Hotkey :: struct {
 App :: struct {
     hwnd: w.HWND,
     hinst: w.HINSTANCE,
-    hmenu: w.HMENU,
     hotkeys: []Hotkey
 }
 
