@@ -1,0 +1,6 @@
+.idea/
+bin/
+*.rdi
+*.res
+*.exe
+*.pdb
