@@ -1,5 +1,8 @@
 .idea/
+.vs/
+.vscode/
 bin/
+build/
 *.rdi
 *.res
 *.exe
